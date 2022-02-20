@@ -1,0 +1,189 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/Nuttypro69     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1tR4HSNaLaM%2Fmaxresdefault.jpg&f=1&nofb=1" tvg-id="", JOSÉ GUTIÉRREZ EN CDN
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  404k    0  404k    0     0   441k      0 --:--:-- --:--:-- --:--:--  441k
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.periodistadigital.com%2Fwp-content%2Fuploads%2F2018%2F08%2Fnoticias-sin.jpg&f=1&nofb=1" tvg-id="", Noticias SIN
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 1136k    0 1136k    0     0   586k      0 --:--:--  0:00:01 --:--:--  586k
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive-tv-channels.org%2Fpt-data%2Fuploads%2Flogo%2Fdo-telemicro-canal-5-1233.jpg&f=1&nofb=1" tvg-id="", Telemicro Canal 5
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  618k    0  618k    0     0   573k      0 --:--:--  0:00:01 --:--:--  573k
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNLNQDVQoMzltR9cDhYtVi4T7eOfbrP2V7dpH4yw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Venevisionweb
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  548k    0  548k    0     0   574k      0 --:--:-- --:--:-- --:--:--  573k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396649/ei/SW4SYqa0C76wxN8P0MCpuAo/ip/37.120.198.162/id/Zl1NjaMxr8k.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/gb/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgAQHEJK_Po1Xaaq4yK49BDMbirsWzW6iUq9xnLHfAhcsCIB9u4AfySx7R0e8QGHxxs617BMRzAp0fy6YX99J6_mnY/file/index.m3u8
+
+#EXTINF:-1 group-title="Latino" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQNLNQDVQoMzltR9cDhYtVi4T7eOfbrP2V7dpH4yw=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Venevision TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396650/ei/Sm4SYvnbCfWgxN8PidyvwA8/ip/37.120.198.162/id/Zl1NjaMxr8k.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/gb/spc/4ocVC5Aen3Kdw5FgQHDdlX9SnK4k/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgc7UZhG1Wr-oWUn69CcFK5DRVw2j0v7Vk2lm3v8C39LICID0SeNGdRWyeshjj6pDJotKxGUlBrHeXpyy_0fpDXgsp/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/mOlz491.png" tvg-id="", News 12 New York
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  541k    0  541k    0     0   555k      0 --:--:-- --:--:-- --:--:--  554k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396652/ei/TG4SYtKWCYTy0wXG_JmwAQ/ip/37.120.198.162/id/RmmRlztXETI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALgfciRfCfCbJnQlM13KBzHi62RA_jQeO3KEUy1bvu-gAiEAlP1boWkpX3rvXvzh1eRtbpxm4C6Bvj5E1mL9wF_edIA%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/s3JUNqT.jpg" tvg-id="", LiveNOW from FOX
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  552k    0  552k    0     0   566k      0 --:--:-- --:--:-- --:--:--  566k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396654/ei/Tm4SYv30Dr-rxN8P4e6BsAk/ip/37.120.198.162/id/xVa8s3NiBkc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANvmn68Dyei1d6JUxwbIo-Fj1rSjdrdJyJybTobUPUBcAiEAqmo9ltYvVrrS4Q18rlSfSQubEE7epEcavgwh3KV82Us%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/8OCSD9V.png" tvg-id="", ABC News (Australia)
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  568k    0  568k    0     0   567k      0 --:--:--  0:00:01 --:--:--  567k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396656/ei/UG4SYpK-FoqkxN8PvvGB-Ao/ip/37.120.198.162/id/vOTiJkg1voo.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQwtXXiZD-tEu4C7dW87m7OHwidnxISnA5dWWI-Yn8kwCIGuslLgUmos2L6duVem1M1f4KSJ-sPsCx04fd13CtB3_/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/y5kZk6K.png" tvg-id="", ANews
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  576k    0  576k    0     0   604k      0 --:--:-- --:--:-- --:--:--  603k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396658/ei/Um4SYoj7HZmQxN8P7dSOsAQ/ip/37.120.198.162/id/hINyxJUspSo.1/source/yt_live_broadcast/requiressl/yes/tx/24153814/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPSXLjWkDAsJjGhFbNliNCQcWgtRd2dBl4HEvtB9cSHpAiBjSl3YMjjzqvCA1Kt4dE_HqItLKjeknqetwP6pTOVgBw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/KKoPfER.gif" tvg-id="", Newsmax TV
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  599k    0  599k    0     0   619k      0 --:--:-- --:--:-- --:--:--  619k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396660/ei/VG4SYpqzIsO0xN8Pi5KrmA8/ip/37.120.198.162/id/FErQVDzgBLo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgW0b8p4MUvgEfvX6Su1vCPAsjWlTI-qN4k614I89VlSACIQD61pgtWj27flg5fVk1vNRhxBtvncZvhn4UWyphyVZpuA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/yDTnnhV.jpg" tvg-id="", NBC News
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  584k    0  584k    0     0   574k      0 --:--:--  0:00:01 --:--:--  574k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396663/ei/Vm4SYpGRPIbmWeKSoogJ/ip/37.120.198.162/id/aX183djqFp8.1/source/yt_live_broadcast/requiressl/yes/tx/24027710/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKT-MTGknJJe8kWmGsGQC56tOrQR5CixUs30wPGELUWBAiEAymeBmaKKaBiq0O1XZr9xVJtqAxwzYbUS6MlV7WJUVX8%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eHxuTsb.png" tvg-id="", TeleSUR English
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  545k    0  545k    0     0   568k      0 --:--:-- --:--:-- --:--:--  568k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396665/ei/WW4SYvXxCM2OxN8P3eOP4A0/ip/37.120.198.162/id/5lAI3FI0bK0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMk44rt-AAPcb5_yQYxDHtDwHhLb0RhZH0FuEhq_QYBkCIGEeKYew8vWeAjVWWfz7OWUWKsmp2FksD298we6iCkUw/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  489k    0  489k    0     0   529k      0 --:--:-- --:--:-- --:--:--  529k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396667/ei/W24SYpaLDfGtmLAPlIaAwAY/ip/37.120.198.162/id/9TjBS50gVjc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJyJ3NzMqYKUNuQuFMk080Tt_DetKPkP04L8yYV3yKGZAiEA7UNTESIHaSqkIzv0NbZifr8acLe18_wRrGZWyi8qF-Y%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/IM6wFyI.png" tvg-id="", CoComelon Songs For Kids
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  454k    0  454k    0     0   493k      0 --:--:-- --:--:-- --:--:--  492k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396669/ei/XW4SYs-YEIy6W73OqrAM/ip/37.120.198.162/id/NXFR5Tx0D40.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9D48dNQ65404cJ24u3A0qw1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM2D2ADeCffcjlg5v3UoUAjYSXqpxSkbMQfeBUJ9kCCyAiBs3gl7FeoQQXM8UIS7EFiYDX-wSNAJUPTl5CVI_8DiLQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Wout1zl.jpg" tvg-id="", Power Ranger Official
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OaKB27t.png" tvg-id="", WB Kids
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  443k    0  443k    0     0   447k      0 --:--:-- --:--:-- --:--:--  447k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396673/ei/YG4SYvOLOoy6W73OqrAM/ip/37.120.198.162/id/75FIn7nO-EY.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgSGHvrFiFWqJuneWu3PMfrkXbgsywpDZ3I1TDoFJxFaICIESFPXKUJmtcaNJi69TRSDvCYFJYhp9AXxApxhjkUOoA/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/vHpmWzh.png" tvg-id="", DC Kids
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  441k    0  441k    0     0   480k      0 --:--:-- --:--:-- --:--:--  480k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396675/ei/Y24SYv6DBOqvxN8PkbmK2AM/ip/37.120.198.162/id/gEUUu_asZrY.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKHr_Jn18_pmgFbwaAmEzC7EirKrV7RijqyB6VjHlam0CIQCnQxZtdNRzT08RLqVE2ptKE1qUD76GhSS3iNOtwny8TA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zuMiEE4.jpg" tvg-id="", Disney Junior
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396676/ei/ZG4SYq4HhKXXBrq2n6AE/ip/37.120.198.162/id/1R35uh5J4Yg.1/source/yt_live_broadcast/requiressl/yes/tx/24153814/txs/24153813%2C24153814/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL1Qzo60MaqaupaI74E7sFIfu1hG4eh_AJ87lF3dIY0FAiAtfw6Meoc72c79huUecQBrq7VL6o_6QVYFbtKolI2OwA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/zuMiEE4.jpg" tvg-id="", Disney Junior
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396676/ei/ZG4SYuGGM_2Fp-oPgouQ0AQ/ip/37.120.198.162/id/5aglJRVC9ts.1/source/yt_live_broadcast/requiressl/yes/tx/24027709/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9SEe_S3uhnhgcSrgbEKrici/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHonwAXOUfbT9WTN6FS3yxDcvNM5WXFS-bFV1WHLO8ccCIA8Au7fKdCmvuK5izY2DsUi-0vQVBPqgjntynVBjRkZM/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/F95Xf1M.png" tvg-id="", PJ Masks Official
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396677/ei/ZW4SYoL0J8SAp-oPiMaiqA8/ip/37.120.198.162/id/XUoMptfVZ2A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPLJr9M-98su_u-8KPTH4mGslSazZy_wZSnjGVV9FKJVAiBUqijEC1ge8sxzmrJJbB1n9aQa0p1hzrd5cUdHTH83VQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Xf48KB9.png" tvg-id="", Barbie
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  446k    0  446k    0     0   484k      0 --:--:-- --:--:-- --:--:--  483k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396679/ei/Z24SYtCwJe2xxN8PkPuF0AQ/ip/37.120.198.162/id/uM8x5gHwmrE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPIpX9iRpFk2QfU7neky94buE2YjWPdVL5G4R8pphT3jAiA55U-JY8KxhxPLCCp2ZqSgtZ1rFuwkC0zg5i3HWBzPQg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/sDGYwUo.jpg" tvg-id="", Booba – Cartoon for Kids
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  501k    0  501k    0     0   518k      0 --:--:-- --:--:-- --:--:--  518k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396681/ei/aW4SYu_lJ9OCmQa76ZeYCw/ip/37.120.198.162/id/SBze223AphU.1/source/yt_live_broadcast/requiressl/yes/tx/24027683/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMt3i6n9jvHuWmoTxvBSUfthQ858SEbPhmqxkUkGDLJxAiAN9aSzXFA4w43lg1gpvbeQgUtbgWdpjapKK_E-JNBP9g%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/LS9HqXf.png" tvg-id="", Thomas & Friends
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  473k    0  473k    0     0   514k      0 --:--:-- --:--:-- --:--:--  514k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396683/ei/a24SYs2fLMOzxN8PzYquCA/ip/37.120.198.162/id/4mtItvaKWA4.2/source/yt_live_broadcast/requiressl/yes/tx/24027710/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24153466/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBfUhRHlphG3FbXHKnErUB4NiccDuqxVcvKD6_lhNRNMCIQDmMKTOqbf2fZqaHnwe1LHAoFe7nEIRikkl7elaaFUIAw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/5dKsnp0.jpg" tvg-id="", Moonbug Kids - Cartoons and Kids Songs
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  447k    0  447k    0     0   479k      0 --:--:-- --:--:-- --:--:--  479k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396685/ei/bW4SYpSkL_enmLAP8eSggAo/ip/37.120.198.162/id/56tHrYSyoZA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANOC-vhZ5xc_uvC_UjBDLTr3nXN3DFr1KO0xmePq5jcWAiEAwfxjB9KN1NLKAByiSYxIv9SAU04ynNVhZ1eWRC2WB8M%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/5dKsnp0.jpg" tvg-id="", Moonbug Kids - Sing Along With Me!
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  446k    0  446k    0     0   482k      0 --:--:-- --:--:-- --:--:--  481k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396687/ei/b24SYvznMqmomLAP7Mi-0Ac/ip/37.120.198.162/id/BPuDuojgoLA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3w7GFU89F5Dr-3QEflSGPTd/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHbuLPs692zBOdwhARu_VBXDOCJsNXb7VTNYIyH-q7IACIQDK4XqNI1aCLYUz1PHT3_KNKvVPrgyuYXRrNA1LVFz2rw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/OwjRrru.png" tvg-id="", Marvel HQ
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  886k    0  886k    0     0   870k      0 --:--:--  0:00:01 --:--:--  870k
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/bIVlPlo.png" tvg-id="", Nick Jr.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  468k    0  468k    0     0   496k      0 --:--:-- --:--:-- --:--:--  496k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396692/ei/dG4SYtCJAo_SWNGJkhg/ip/37.120.198.162/id/qWqNNjn6cFM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOR6KgJOz6X7pqv_AF_HbYO2vINCGvkwFCDrWcf15NBOAiBlMamqMwCCbyKvpWKF1CqjRZgl_Ahmt0CSrakdzAmp5A%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/dtYOGod.png" tvg-id="", Blaze and the Monster Machines
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  464k    0  464k    0     0   502k      0 --:--:-- --:--:-- --:--:--  501k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396694/ei/dm4SYveIBsioxN8Pvuu8wAY/ip/37.120.198.162/id/2kMu9Rm2ovY.1/source/yt_live_broadcast/requiressl/yes/tx/24067852/txs/24027691%2C24027692%2C24027693%2C24027694%2C24067852/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMpVEOztCxFJYj7JXce7xn4hjs6YC0-CghXNeuHwfCwFAiAyxyzmIZsgO6AZPOTz_Pq0My-v4zGxfSyBw8GKogr4zw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FeJ2C19.png" tvg-id="", Nickelodeon
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  495k    0  495k    0     0   522k      0 --:--:-- --:--:-- --:--:--  521k
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396696/ei/eG4SYu_RCfzYsALFkaewBg/ip/37.120.198.162/id/m1CV04HqQmI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKfqV2NycD6WOAWh3PPtXxoq43kqGRCdTTHqygFVbFBgCIDekOpMSyG-yG1ToSPiOH-gyTfS3_K-DjEZqujR3r7vV/file/index.m3u8
+
+#EXTINF:-1 group-title="Tv Channel" tvg-logo="" tvg-id="", RailCow live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396697/ei/eW4SYovwB9y8xN8Pze-qyAw/ip/37.120.198.162/id/1qz3dUqjxF0.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN9TUuj2k4ztipu2yNDgWflnGryM9Q5QONd4XByqb119AiEA-wEM3tFc1KGyN4tAXC1O85TWgK3L6gJdzgkhe2G3kME%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tv Channel" tvg-logo="" tvg-id="", london busride live
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  556k    0  556k    0     0   581k      0 --:--:-- --:--:-- --:--:--  581k
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+
+#EXTINF:-1 group-title="Tv Channel" tvg-logo="" tvg-id="", Japan Walk Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396699/ei/e24SYpTwM5WlxN8P4tSywA8/ip/37.120.198.162/id/AiuHc7P1CBM.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALM0MXmiskJABWmxiJ1g2yB5f-4mLiFButW4glLvQ-2-AiEAiLFSWOHCXbRp3AlcbgY7glqqbygZ8mzl0p-wrEMnhs8%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Tv Channel" tvg-logo="" tvg-id="", Tokyo Rail Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645396700/ei/fG4SYpmUKKPtxgLtha3AAw/ip/37.120.198.162/id/BQYKarjjWi0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMjN75DBaGBaZZSSqdrGqlzME9FQzftYyTiBdAtTy2-3AiEAz1F8bnzpZOUVbFRxNLGxSPF46J3mPInf1u2HsbtQDVE%3D/file/index.m3u8
