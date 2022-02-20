@@ -16,7 +16,7 @@ Enlaces M3U actualizados de YouTube Live Canals, **actualizado -automáticamente
 
 
 ### Uso 
-Pegue esta URL: 'https://raw.githubusercontent.com/nuttypro69/youtube_to_m3u-/main/youtube.m3u-' a cualquier jugador que admite las listas de reproducción de M3U
+Pegue esta URL: 'https://raw.githubusercontent.com/nuttypro69/youtube_to_m3u-/main/youtube.m3u' a cualquier jugador que admite las listas de reproducción de M3U
 
 ### Ejecute la herramienta en su máquina local
 
