@@ -21,7 +21,7 @@ Pegue esta URL: 'https://raw.githubusercontent.com/nuttypro69/youtube_to_m3u/mai
 ### Ejecute la herramienta en su máquina local
 
 ``` bash
-git clone https://github.com/nuttypro69/youtube_to_m3u-.git
+git clone https://github.com/nuttypro69/youtube_to_m3u.git
 cd YouTube_to_m3u
 chmod +x autorun.sh
 ./autorun.sh
