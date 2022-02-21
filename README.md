@@ -3,7 +3,7 @@
 [![M3U generator for YouTube](https://github.com/Nuttypro69/YouTube_to_m3u/blob/main/assets/Info.m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/Nuttypro69/YouTube_to_m3u-/blob/main/.github/workflows/m3u_Generator.yml)
 
 ``` bash
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u-/main/youtube.m3u
+https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/youtube.m3u
 ```
 
 Funciona mejor con: [Perfect Player IPTV](http://niklabs.com/) ,
