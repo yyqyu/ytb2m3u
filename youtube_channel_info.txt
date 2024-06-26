@@ -1,31 +1,31 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES	
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 	
-NASA live TV | NASA | | https://www.youtube.com/@NASA/live
+NASA live TV | Space | | https://www.youtube.com/@NASA/live
 
-The SUN Tracker Live Position & Data | WN SPACE LIVE | | 
-https://www.youtube.com/WNSPACELIVE/live
+The SUN Tracker Live Position & Data | Space | | 
+https://www.youtube.com/@WNSPACELIVE/live
 
-James Webb Space Telescope Tracker Live Position & Data | WN SPACE LIVE | | 
+James Webb Space Telescope Tracker Live Position & Data | Space | | 
 https://www.youtube.com/watch?v=o4WctPAJ4h8
 
-Watchdog1787 | Watchdog1787 | | 
+Earthquakes, Earth & Space Weather | Earth | | 
 https://www.youtube.com/Watchdog1787/live
 
-国道10号直播  | | | 
-https://www.youtube.com/tyannsywei3633/live
+日本国道10号直播  |Earth | | 
+https://www.youtube.com/@tyannsywei3633/live
 
-THE WORLD LIVE ORIGINAL PROGRAM | earthTV | | 
+WORLD LIVE ORIGINAL PROGRAM | Earth | | 
 https://www.youtube.com/earthTV/live
 
-NASA LIVE - Earth live camera view from the ISS | NASA | | 
+Earth live camera view from the ISS | Earth | | 
 https://www.youtube.com/watch?v=tnMYaFLbyBw
 
-LIVE CAMS - World Airports with ATC audio  | | | 
+World Airports with ATC audio| Aviation| | 
 https://www.youtube.com/watch?v=boQbsXVNrJA
 
-鳳凰衛視直播  | 凤凰卫视 | | 
+鳳凰衛視直播  | News | | 
 https://www.youtube.com/watch?v=HFib76ySpbU
 
-Live High-Definition Views from the International Space Station | NASA  | |
+Views from the International Space Station | Space | |
 https://www.youtube.com/watch?v=P9C25Un7xaM
