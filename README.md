@@ -24,7 +24,5 @@ chmod +x autorun.sh
 ./autorun.sh
 ```
 
-No olvide agregar un conjunto de trabajo de Cron por cada 4 horas (or 5) si planea ejecutar el script localmente.
+如在本地运行脚本，别忘了添加一个定时作业设置，每4小时（或5小时）执行一次。
 
-Créditos: [**benmoose39**](https://github.com/benmoose39)
- & [**Naveenland4 **](https://github.com/naveenland4)
