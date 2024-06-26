@@ -1,7 +1,5 @@
 <h1 align="center"> YouTube_to_m3u </h1>
 
-[![M3U generator for YouTube](https://github.com/yyqyu/ytb2m3u/blob/main/assets/Info.m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/Nuttypro69/YouTube_to_m3u-/blob/main/.github/workflows/m3u_Generator.yml)
-
 ``` bash
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/youtube.m3u
 ```
