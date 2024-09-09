@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", 鳳凰衛視直播
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725859138/ei/4jDeZubEL_2KkucPz-6uUA/ip/20.109.60.255/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9mhqtGMFFmDAgfnVy-0FVrW0ghuqTbWVmxB0VQYCXqLJTuiCaQsBENC3HLg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWafvNpnlEwDYhw3o1LfvghtWH0uyk-RsDwuezT9_KlgCIHcczxq8bYY8Dt00CP24kQDRgP3frjNs-Zb69-s_f9sI/file/index.m3u8
+https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Space" tvg-logo="" tvg-id="", Views from the International Space Station
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
