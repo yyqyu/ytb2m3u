@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Earth" tvg-logo="" tvg-id="", 日本国道10号直播
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1733397565/ei/3TdRZ82UF4f8sfIP18mlgAk/ip/52.238.29.198/id/uIbKW6kTWCo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51326653/txs/51326650%2C51326651%2C51326652%2C51326653%2C51326654%2C51326655%2C51326656/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAfzpS3ZutAmWThWyhotF05PteOuMGk9p5h9u5O54G2a7nq_Gjs2ZGxE4p1o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51319288%2C51326932%2C51335594%2C51347746%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMrKv2Z0me1BkRBTKCIRWutaHSurI5KIKnn1UpCfD458CIDfDu70pxff70rR3YuoQKhcvFOvX0GfoVhlh2xfVEq7-/file/index.m3u8
 
 #EXTINF:-1 group-title="Earth" tvg-logo="" tvg-id="", WORLD LIVE ORIGINAL PROGRAM
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
