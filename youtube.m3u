@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 #EXTINF:-1 group-title="Space" tvg-logo="" tvg-id="https://www.youtube.com/@NASA/live", NASA live TV
 
 #EXTINF:-1 group-title="Space" tvg-logo="" tvg-id="", The SUN Tracker Live Position & Data
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1737432980/ei/NMuOZ_O3KdrasfIPtKKvqQo/ip/20.43.247.169/id/4pXwUpQM0h8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51370626/txs/51370625%2C51370626%2C51370627%2C51370628%2C51370629%2C51370630%2C51370631%2C51370632%2C51370633/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-PQJgwIDK1IwVupdfFzoxJtgAf45-DAiiXWDoYFQ4RL-_AX_WW5C8SnTNn9rh-ZGDQ8-CyzANh_/spc/9kzgDSE6E9X--wHtFhhghRHOIg8CTTmRTYTFWfyu6V4Pa_UkAomoCWcNZJFRZok/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294%2C51384461/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgP4gO2PL8iT5D2VOGmz95Ep_PaMuWSfbQFlhdf05ZBdcCIB2qm_8wUdlBpgEjJyt8dNfC3xV9RM8hMK6Gn39OTNYc/file/index.m3u8
 
 #EXTINF:-1 group-title="Space" tvg-logo="" tvg-id="", James Webb Space Telescope Tracker Live Position & Data
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
