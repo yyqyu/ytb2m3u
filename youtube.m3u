@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 #EXTINF:-1 group-title="Space" tvg-logo="" tvg-id="https://www.youtube.com/@NASA/live", NASA live TV
 
 #EXTINF:-1 group-title="Space" tvg-logo="" tvg-id="", The SUN Tracker Live Position & Data
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738466179/ei/I4-eZ7KmLsbxybgPrM6a6QY/ip/20.25.192.110/id/Ns_dFnZnNbc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51365994/txs/51365992%2C51365993%2C51365994/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-MFzr2kKNPg-DKtAjk_YW3te9UomDBnn76_fuoRP04altCvGsxSLLyMrB9YSq7iXwoneanM0X3j/spc/9kzgDey8obSm7Pnryyou9umV1e4gM2ych_lsCSHkI2AfTUFlFHQmQeF4_y4RQz8s6Pv3_BE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51371294%2C51387515/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPPwI51QoRuJw2f1mSyVwLk0U6fszIxBgcnZgum3E4D-AiBQluUucN0fvN22X6VOTmDY5IhptoQh_AuQ_MxUTAaNJw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Space" tvg-logo="" tvg-id="", James Webb Space Telescope Tracker Live Position & Data
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
 
 #EXTINF:-1 group-title="Earth" tvg-logo="" tvg-id="", WORLD LIVE ORIGINAL PROGRAM
-https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738466183/ei/J4-eZ5PtBYOwlu8PtYuvgAY/ip/20.25.192.110/id/hTHld3T7NA0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-OA78jpUmHoQgAOy9jlWoa5MGtJbcZV53FproMALZPoI-w5iKehXvwhkUBz3cE3OGQfHi5zjkeG/spc/9kzgDYZlbps-P8HehrphCez2q1pleI5OAL--hyAN19tcRjMqH6FfHiZW8Ac80Z3aHOYr_eI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO5c_yqX_1926lfoaDCOIG0mpZFrarK_JsmR9zDz6IbBAiAcKK4vIqaaLwGSHRUDh8z8SbD2oDPZ9UXwLoAQn7bekg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Earth" tvg-logo="" tvg-id="", Earth live camera view from the ISS
 https://raw.githubusercontent.com/Nuttypro69/YouTube_to_m3u/main/assets/info.m3u
